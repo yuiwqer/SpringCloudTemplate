@@ -24,10 +24,12 @@ spring:
 ## 启动用户服务(user-service)
 ## 启动路由服务(gateway)
 ## 使用Postman调试
+```
 使用post请求
 请求路径为localhost:1002/user-service/login
 Body参数类型 application/x-www-form-urlencoded
 username | sui
 password | 123
+```
 ## 测试
 登陆成功
